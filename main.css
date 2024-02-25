@@ -1,0 +1,7 @@
+div#items-list {
+    max-width: 900px;
+}
+
+.item-img {
+    width: 100%;
+}
